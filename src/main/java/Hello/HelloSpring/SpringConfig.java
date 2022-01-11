@@ -1,5 +1,6 @@
 package Hello.HelloSpring;
 
+import Hello.HelloSpring.aop.TimeTraceAop;
 import Hello.HelloSpring.domain.Member;
 import Hello.HelloSpring.repository.*;
 import Hello.HelloSpring.service.MemberService;
